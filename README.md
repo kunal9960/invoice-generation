@@ -10,7 +10,7 @@ Each row in the Excel file represents an invoice, and the script generates corre
 ## Requirements
 
 - Python 3.x
-- pandas
+- Pandas
 - FPDF
 
 ## Usage
