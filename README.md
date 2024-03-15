@@ -11,7 +11,7 @@ Each row in the Excel file represents an invoice, and the script generates corre
 
 - Python 3.x
 - pandas
-- fpdf
+- FPDF
 
 ## Usage
 
@@ -27,7 +27,7 @@ This project uses the [Pandas](https://pandas.pydata.org/) library for Excel han
    pip install fpdf
    ```
    
-2)  Place all your excel files in the folder invoices in the same directory as main.py.
+2)  Place all your excel files in the folder `invoices` in the same directory as main.py.
    
 3)  Run the script:
 ```
