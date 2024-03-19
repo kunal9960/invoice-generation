@@ -13,6 +13,7 @@ Each row in the Excel file represents an invoice, and the script generates corre
 - Pandas
 - FPDF
 
+
 ## Usage
 
 This project uses the [Pandas](https://pandas.pydata.org/) library for Excel handling and [FPDF](https://fpdf.org/en/doc/index.php) library for PDF generation.
@@ -43,6 +44,7 @@ python main.py
 
 
 ## Customization
+
 You can customize various aspects of the generated PDF invoices.
 
 - **Invoice Template:** Modify the template to match your branding and layout preferences.
@@ -51,7 +53,10 @@ You can customize various aspects of the generated PDF invoices.
 
 
 ## Contributing
+
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to fork the repository and submit a pull request. You can also open an issue to report bugs or suggest enhancements.
 
+
 ## Acknowledgments
+
 Feel free to contact me if you need help with any of the projects :)
