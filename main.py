@@ -23,7 +23,7 @@ for filepath in filepaths:
 
     # Add a header
     columns = df.columns
-    columns =[item.replace("_", " ").title() for item in columns]
+    columns = [item.replace("_", " ").title() for item in columns]
     pdf.set_font(family="Arial", size=12, style="B")
     pdf.cell(w=25, h=8, txt=columns[0], border=1)
     pdf.cell(w=60, h=8, txt=columns[1], border=1)
