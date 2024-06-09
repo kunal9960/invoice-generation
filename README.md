@@ -1,15 +1,16 @@
 # Invoice Generator 📑
 
-This Python script automates the creation of PDF invoices from Excel files. 
-Each row in the Excel file represents an invoice, and the script generates corresponding PDF invoices.
+[![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/kunal9960)
 
+This Python script automates the creation of PDF invoices from Excel files. Each row in the Excel file represents an invoice, and the script generates corresponding PDF invoices.
 
 ![Excel2pdf](https://github.com/kunal9960/invoice-generation/blob/master/Excel%20to%20pdf.png)
 
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - Pandas
 - FPDF
 
@@ -34,8 +35,6 @@ This project uses the [Pandas](https://pandas.pydata.org/) library for Excel han
 ```
 python main.py
 ```
-
-4)  Sit back and watch as the invoices are generated in PDF format.
 
 
 ## Example Screenshot
